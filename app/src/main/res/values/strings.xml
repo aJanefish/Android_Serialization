@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android_Serialization</string>
+    <string name="title">Android 序列化</string>
+    <string name="testParcelable">Parcelable测试</string>
+    <string name="testSerializable">Serializable测试</string>
+    <string name="test">Test</string>
+</resources>
